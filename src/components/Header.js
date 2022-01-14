@@ -9,7 +9,7 @@ export default ({black}) => {
               <img src="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-6.png" alt="Netflix" />
             </div>
             <div className="header--user">
-              <img src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png" alt="User" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="User" />
             </div>
         </header>
     );
