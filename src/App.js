@@ -60,8 +60,8 @@ export default () => {
       </section>
 
       <footer>
-        Página feita por Flavio Ribeiro Rodrigues Cordeiro, desenvolvida em React, utilizando CSS puro para efeitos e estilização, Material UI para ícones e hooks para gerenciamento de estado.<br/>
-        <br/>
+        Página feita por Flavio Ribeiro Rodrigues Cordeiro, desenvolvida em React, utilizando CSS puro para efeitos e estilização, <br/> 
+        Material UI para ícones e hooks para gerenciamento de estado.<br/>
         Direitos de imagem para Netflix.<br/>
         Dados da API pegos do site themoviedb.org.<br/>
         Página sem fins lucrativos. Feita por razões acadêmicas.<br/>
